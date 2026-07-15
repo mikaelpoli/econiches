@@ -1,5 +1,5 @@
 # econiches
-Integrated machine learning and metagenomics approaches for predicting microbial environmental niches from high-dimensional functional genomic data.
+Code for my data science MSc thesis titled "Integrated machine learning and metagenomics approaches for predicting microbial environmental niches from high-dimensional functional genomic data".
 
 ## Contents
 * Data parsing and filtering pipeline

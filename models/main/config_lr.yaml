@@ -1,0 +1,8 @@
+multilabel: true
+calibrate_scores: true
+num_workers: 6
+scaler: MaxAbsScaler
+cv_k_folds: 3
+fit_intercept: True
+seed: 420
+n_jobs: -1

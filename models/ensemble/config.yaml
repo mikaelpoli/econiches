@@ -1,0 +1,11 @@
+multilabel: true
+binary: true
+
+model:
+  ensemble: true
+  weights:
+    cog: 0.05
+    ec: 0.25
+    pfam: 0.35
+    cazy: 0.05
+    ko: 0.30
